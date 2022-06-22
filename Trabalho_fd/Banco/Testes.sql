@@ -1,0 +1,1 @@
+SELECT idCorrida,qtdVotas,melhorTempo,posicao,idPista,idPiloto FROM corrida WHERE (idPista = 1) AND (idPiloto = 3);
